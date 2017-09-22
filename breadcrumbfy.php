@@ -2,7 +2,7 @@
 /*
 Plugin Name:  BreadcrumbFy
 Plugin URI:   http://becodify.com
-Description:  The easiest way to generate your WordPress breadcrumbs
+Description:  The easiest way to generate WordPress breadcrumbs
 Version:      0.0.1
 Author:       Bruno Lorente Cantarero
 Author URI:   http://brunolorente.com
